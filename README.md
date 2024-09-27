@@ -5,6 +5,10 @@
 
 This project is a comprehensive Power BI Dashboard designed to analyze and visualize key performance metrics of Mahadev eCommerce sales. The dashboard provides insights into monthly sales trends, top-selling products, and other vital sales metrics. The goal is to help decision-makers understand business performance and make data-driven decisions.
 
+
+![Mahadev eCommerce Dashboard](https://github.com/AniketOvhal18/E-Commerce-Sales-Dashboard-/blob/main/Mahadev%20e-commerce%20sales%20dashboaard%20.png)
+
+
 # Features
 Sales by Month: Displays monthly sales trends to identify peak periods and overall sales growth.
 Top-Selling Products: Highlights the most popular products, giving insights into customer preferences.
